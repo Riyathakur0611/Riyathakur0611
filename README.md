@@ -12,9 +12,8 @@
    - **House Price Prediction** - Predicting house prices involves using data analysis to estimate the selling price of a property based on factors like location, property characteristics, and market trends. Common methods include regression analysis and machine learning. Accurate prediction is important for buyers, sellers, and real estate professionals.
 - 📫 Feel free to explore my repositories or reach out to me if you have any questions. Let's connect and collaborate!
 - Linked profile-https://www.linkedin.com/in/riya-thakur-410b20259/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGRovWDzwTSitrvDBpneBQw%3D%3D
-- 
 - 😄 Pronouns: ...She/Her
-- 
+  
 
 <!---
 Riyathakur0611/Riyathakur0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
