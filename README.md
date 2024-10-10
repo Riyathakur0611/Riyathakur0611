@@ -1,6 +1,7 @@
 ## Hi there! 👋. I'm Riya
 
--  A third-year BTech CSE student at COER University. Passionate about data and technology, I'm eager to delve into the world of data science and analytics.
+-  A third-year BTech CSE student at COER University.
+- Passionate about data and technology, I'm eager to delve into the world of data science and analytics.
 
 ---
 ## 🌐**Skills:**
