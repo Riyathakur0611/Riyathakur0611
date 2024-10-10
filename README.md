@@ -6,7 +6,7 @@
 ## **Skills:**
 
 -  - **Programming Languages:** C, Python, SQL
-   - **Tools:** Excel, MySQL, Power BI
+   - **Tools:** Excel, MySQL, Power BI, Scikit-learn
    - **Frameworks:** Pandas, Matplotlib, NumPy
 
 ---
