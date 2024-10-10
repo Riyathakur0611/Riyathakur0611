@@ -27,3 +27,4 @@
 ---
 -  Let's connect and collaborate on exciting projects! 🤝
    - **LinkedIn Profile:** www.linkedin.com/in/riya-thakur-410b20259
+   - **Email Address:** thakurriya0611@gmail.com
