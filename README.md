@@ -18,7 +18,7 @@
    - **House Price Prediction:** Built a regression model to predict house prices using real estate data.
 
 ---
-## **Aspirations:**
+## 👼**Aspirations:**
 
 - I'm excited to explore the field of data science and analytics. I'm particularly interested in:
 
